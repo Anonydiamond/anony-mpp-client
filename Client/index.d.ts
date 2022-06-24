@@ -1,8 +1,4 @@
 declare class Client {
-    /**
-     * Enter a data to send to ws
-     */
-
     ppl: object | any
     uri: string
     ws: WebSocket
