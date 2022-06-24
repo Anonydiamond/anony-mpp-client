@@ -1,0 +1,29 @@
+{
+  "name": "anony-mpp-client",
+  "version": "1.0.18",
+  "description": "A fast and awesome mpp bot client created by anonydiamond",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anonydiamond/anony-mpp-client"
+  },
+  "homepage": "https://github.com/Anonydiamond",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mpp",
+    "mpp-bot",
+    "mppbot",
+    "mppclient",
+    "mpp-client"
+  ],
+  "author": "Anonydiamond",
+  "license": "ISC",
+  "dependencies": {
+    "anony-mpp-bot-js": "^1.0.0",
+    "eventemitter3": "^4.0.7",
+    "fs": "^0.0.1-security",
+    "midi-player-js": "^2.0.16"
+  }
+}
