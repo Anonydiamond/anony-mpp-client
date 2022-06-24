@@ -164,7 +164,7 @@ type args = {
     }
 
     unban: {
-        _id: number
+        _id: string
     }
 }
 
